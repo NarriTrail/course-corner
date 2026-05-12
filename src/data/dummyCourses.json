@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "React & TypeScript Masterclass",
+    "instructor": "Sarah Johnson",
+    "duration": "42 hours",
+    "category": "Web Development",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400&h=220&fit=crop",
+    "description": "Build production-ready apps with React 18 and TypeScript. Covers hooks, context, performance optimization, and testing."
+  },
+  {
+    "id": 2,
+    "name": "Python for Data Science",
+    "instructor": "Dr. Arjun Patel",
+    "duration": "38 hours",
+    "category": "Data Science",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=220&fit=crop",
+    "description": "Master NumPy, Pandas, Matplotlib and Scikit-learn. Real-world projects from EDA to building ML pipelines."
+  },
+  {
+    "id": 3,
+    "name": "UI/UX Design Foundations",
+    "instructor": "Emma Clarke",
+    "duration": "24 hours",
+    "category": "Design",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400&h=220&fit=crop",
+    "description": "Learn user-centred design principles, wireframing in Figma, usability testing, and building a complete design system."
+  },
+  {
+    "id": 4,
+    "name": "Node.js & Express Backend",
+    "instructor": "Marcus Thompson",
+    "duration": "30 hours",
+    "category": "Web Development",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=220&fit=crop",
+    "description": "Build scalable REST APIs with Node.js, Express, JWT authentication, MongoDB integration, and deployment on cloud platforms."
+  },
+  {
+    "id": 5,
+    "name": "Machine Learning A-Z",
+    "instructor": "Dr. Priya Sharma",
+    "duration": "55 hours",
+    "category": "Data Science",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=220&fit=crop",
+    "description": "Comprehensive ML course covering supervised and unsupervised learning, neural networks, NLP, and model deployment."
+  },
+  {
+    "id": 6,
+    "name": "iOS App Development with Swift",
+    "instructor": "Liam O'Brien",
+    "duration": "45 hours",
+    "category": "Mobile Development",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&h=220&fit=crop",
+    "description": "Build native iOS apps from scratch using Swift, SwiftUI, and Xcode. Publish your own app to the App Store."
+  },
+  {
+    "id": 7,
+    "name": "AWS Cloud Practitioner",
+    "instructor": "Neha Gupta",
+    "duration": "20 hours",
+    "category": "Cloud & DevOps",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=400&h=220&fit=crop",
+    "description": "Prepare for the AWS Certified Cloud Practitioner exam. Covers core AWS services, security, pricing, and architecture."
+  },
+  {
+    "id": 8,
+    "name": "Figma Advanced Prototyping",
+    "instructor": "Emma Clarke",
+    "duration": "16 hours",
+    "category": "Design",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1609921212029-bb5a28e60960?w=400&h=220&fit=crop",
+    "description": "Master advanced Figma features: auto-layout, components, variables, interactive prototypes, and developer handoff."
+  },
+  {
+    "id": 9,
+    "name": "Docker & Kubernetes DevOps",
+    "instructor": "Raj Krishnamurthy",
+    "duration": "35 hours",
+    "category": "Cloud & DevOps",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=400&h=220&fit=crop",
+    "description": "Containerise applications with Docker, orchestrate with Kubernetes, and set up full CI/CD pipelines with GitHub Actions."
+  },
+  {
+    "id": 10,
+    "name": "Android Development with Kotlin",
+    "instructor": "Carlos Mendes",
+    "duration": "40 hours",
+    "category": "Mobile Development",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?w=400&h=220&fit=crop",
+    "description": "Build modern Android apps with Kotlin, Jetpack Compose, ViewModel, Room database, and Material Design 3."
+  },
+  {
+    "id": 11,
+    "name": "Full-Stack Next.js Development",
+    "instructor": "Sarah Johnson",
+    "duration": "48 hours",
+    "category": "Web Development",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=220&fit=crop",
+    "description": "Ship production apps with Next.js 14, App Router, Server Components, Prisma ORM, and Vercel deployment strategies."
+  },
+  {
+    "id": 12,
+    "name": "Data Visualisation with Power BI",
+    "instructor": "Dr. Arjun Patel",
+    "duration": "22 hours",
+    "category": "Data Science",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=220&fit=crop",
+    "description": "Create stunning dashboards and business reports with Power BI. Covers DAX, Power Query, and publishing to the web."
+  },
+  {
+    "id": 13,
+    "name": "Cybersecurity Fundamentals",
+    "instructor": "Alex Morgan",
+    "duration": "28 hours",
+    "category": "Cybersecurity",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=220&fit=crop",
+    "description": "Understand ethical hacking, network security, OWASP Top 10, penetration testing basics, and security best practices."
+  },
+  {
+    "id": 14,
+    "name": "Ethical Hacking & Penetration Testing",
+    "instructor": "Alex Morgan",
+    "duration": "50 hours",
+    "category": "Cybersecurity",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&h=220&fit=crop",
+    "description": "Hands-on pen testing with Kali Linux, Metasploit, Burp Suite. Learn to think like an attacker to defend systems."
+  },
+  {
+    "id": 15,
+    "name": "Motion Design with After Effects",
+    "instructor": "Zara Ahmed",
+    "duration": "32 hours",
+    "category": "Design",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=400&h=220&fit=crop",
+    "description": "Create scroll-stopping motion graphics, animated logos, kinetic typography, and UI micro-interactions for digital products."
+  },
+  {
+    "id": 16,
+    "name": "GraphQL API Design",
+    "instructor": "Marcus Thompson",
+    "duration": "18 hours",
+    "category": "Web Development",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=220&fit=crop",
+    "description": "Design and build production GraphQL APIs with Apollo Server, type safety, subscriptions, and federated microservices."
+  },
+  {
+    "id": 17,
+    "name": "Flutter Cross-Platform Apps",
+    "instructor": "Carlos Mendes",
+    "duration": "36 hours",
+    "category": "Mobile Development",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?w=400&h=220&fit=crop",
+    "description": "Build beautiful cross-platform apps for iOS and Android from a single Dart codebase using Flutter and Riverpod."
+  }
+]
