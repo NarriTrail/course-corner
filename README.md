@@ -5,7 +5,7 @@ Welcome! This is a clean, modern course catalog built for the **Frontlines EduTe
 ---
 
 ## 🚀 Live Demo
-**[PASTE YOUR VERCEL LINK HERE]**  
+**https://course-corner-13wvi5ng6-narritrails-projects.vercel.app**  
 
 > **Note:** The app is fully responsive. Try resizing your browser or opening the link on your mobile to see the layout adapt!
 
